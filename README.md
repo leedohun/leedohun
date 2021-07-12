@@ -1,27 +1,25 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kimtaehyun98&fontSize=90) -->
+## leedohun
 
-## kimtaehyun98 😜
+### Intro
 
-### Intro 🙌
+- Hi, there! I'm @leedohun
 
-- 👋 Hi, there! I'm @kimtaehyun98
+- I’m student of Korea Aerospace Univ in Korea
 
-- 🌱 I’m student of Korea Aerospace Univ in Korea
+- I participated in an ICT internship. (Zconverter)
 
-### How to reach me? 🤔
+### How to reach me?
 
-- 📫  **Taehyun's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaehyun981107@gmail.com)](mailto:fomagran6@gmail.com)
+- **leedohun's blog ...** [![Tech Blog Badge](http://wiki.hash.kr/images/a/a1/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%A1%9C%EA%B3%A0.png)](https://blog.naver.com/aakim66)
 
-- 📒  **Taehyun's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://kimtaehyun98.tistory.com/)](https://kimtaehyun98.tistory.com/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedohun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaehyun98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtaehyun98)](https://solved.ac/kimtaehyun98)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehgns011)](https://solved.ac/dlehgns011)
 
 
 
 <!--
-**kimtaehyun98/kimtaehyun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leedohun/leedohun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
