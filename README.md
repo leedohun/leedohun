@@ -8,7 +8,7 @@
 
 - I participated in an ICT internship. (Zconverter)
 
-- I have a Samsung SW Pro license.
+- I have a Samsung SDS SW Pro license.
 
 ### How to reach me?
 
