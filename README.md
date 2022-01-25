@@ -8,6 +8,8 @@
 
 - I participated in an ICT internship. (Zconverter)
 
+- I have a Samsung SW Pro license.
+
 ### How to reach me?
 
 - **leedohun's blog ...**(https://blog.naver.com/aakim66)
