@@ -12,7 +12,7 @@
 
 - I participated in an internship. (SaladLab)
 
-- I participat in an internship. (SK C&C)
+- I participate in an internship. (SK C&C)
 
 ### How to reach me?
 
